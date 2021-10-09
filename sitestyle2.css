@@ -1,0 +1,225 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#navbar{
+    width: 95%;
+/*     border: red 1px solid; */
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0 auto;
+    position: fixed;
+    top: 5px;
+    left: 0;
+    transform: translateX(2.5%);
+}
+#menuItems{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 70%;
+    color: white;
+}
+#socialLinks{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 10%;
+    color: white;
+}
+#bannar{
+    width: 100%;
+    height: 445px;
+    background-image: url(img/bg-title-page-03.jpg);
+    background-position: center;
+    color: white;
+    font-size: 48px;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+#bannar h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 55px;
+}
+
+.bg2-pattern {
+    background-image: url(../images/icons/pattern2.png);
+    background-repeat: repeat;
+}
+.t-center {
+    text-align: center;
+}
+.p-r-15 {
+    padding-right: 15px;
+}
+.p-l-15 {
+    padding-left: 15px;
+}
+.p-b-110 {
+    padding-bottom: 110px;
+}
+.p-t-116 {
+    padding-top: 116px;
+}
+article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+section {
+    display: block;
+}
+body, html {
+    height: 100%;
+    font-family: Montserrat, sans-serif;
+    font-weight: 400;
+}
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+}
+html {
+    box-sizing: border-box;
+    font-family: sans-serif;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -ms-overflow-style: scrollbar;
+    -webkit-tap-highlight-color: transparent;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+background-image: url(images/header-menu-01.jpg);
+background-position: center center;
+}
+.section-video {
+background-attachment: fixed;
+background-position: center 0;
+background-repeat: no-repeat;
+background-size: cover;
+}
+article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {
+display: block;
+}
+* {
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+}
+*, ::after, ::before {
+box-sizing: inherit;
+}
+user agent stylesheet
+section {
+display: block;
+}
+body, html {
+height: 100%;
+font-family: Montserrat, sans-serif;
+font-weight: 400;
+}
+body {
+margin: 0;
+font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+font-size: 1rem;
+font-weight: 400;
+line-height: 1.5;
+color: #212529;
+background-color: #fff;
+}
+html {
+box-sizing: border-box;
+font-family: sans-serif;
+line-height: 1.15;
+-webkit-text-size-adjust: 100%;
+-ms-text-size-adjust: 100%;
+-ms-overflow-style: scrollbar;
+-webkit-tap-highlight-color: transparent;
+}
+*, ::after, ::before {
+box-sizing: inherit;
+}
+*, ::after, ::before {
+box-sizing: inherit;
+}
+
+}
+.bg1-pattern {
+    background-image: url(../images/icons/pattern1.png);
+    background-repeat: repeat;
+}
+.p-b-105 {
+    padding-bottom: 105px;
+}
+.p-t-120 {
+    padding-top: 120px;
+}
+article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+section {
+    display: block;
+}
+body, html {
+    height: 100%;
+    font-family: Montserrat, sans-serif;
+    font-weight: 400;
+}
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+}
+html {
+    box-sizing: border-box;
+    font-family: sans-serif;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -ms-overflow-style: scrollbar;
+    -webkit-tap-highlight-color: transparent;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
